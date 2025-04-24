@@ -140,8 +140,4 @@ ssh brais@<IP_B> -p 2223
 
 ## **8. Entrega**
 
-### Incluye:
-- URL del repositorio GitHub.
-- Archivo ZIP de la práctica.
 
-**Nota:** Asegúrate de que el archivo README.md contenga una descripción completa de los pasos realizados.
