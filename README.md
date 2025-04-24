@@ -32,7 +32,8 @@ sudo adduser brais
 ```
 
 ---
-
+  ![photo](imagenes/Captura3.png)
+  
 ## **3. Conexión SSH de Máquina A a Máquina B**
 
 ### Desde Máquina A:
@@ -46,6 +47,8 @@ ssh brais@<IP_B> -p 2223
 Al conectarte por primera vez, SSH crea una entrada en el archivo `~/.ssh/known_hosts` en Máquina A. Este archivo almacena la clave pública del servidor (Máquina B) para futuras conexiones seguras.
 
 ---
+  ![photo](imagenes/Captura4.png)
+  ![photo](imagenes/Captura5.png)
 
 ## **4. Transferencia de Archivos**
 
@@ -73,6 +76,8 @@ scp -P 2222 -r /tmp/prueba2 alex@<IP_A>:/tmp
 
 ---
 
+  ![photo](imagenes/Captura6.png)
+  
 ## **5. Transferencia al ordenador anfitrión**
 
 ### Desde Máquina A:
@@ -93,7 +98,10 @@ scp -P 2223 -r /tmp/prueba3 usuario_anfitrion@<IP_Anfitrion>:/home/usuario_anfit
 ```
 
 ---
-
+  ![photo](imagenes/Captura7.png)
+  ![photo](imagenes/Captura8.png)
+  ![photo](imagenes/Captura9.png)
+  
 ## **6. Configuración de Claves SSH**
 
 ### En Máquina A:
@@ -114,7 +122,13 @@ ssh brais@<IP_B> -p 2223
 ```
 
 ---
-
+  
+  ![photo](imagenes/Captura10.png)
+  ![photo](imagenes/Captura11.png)
+  ![photo](imagenes/Captura12.png)
+  ![photo](imagenes/Captura13.png)
+  ![photo](imagenes/Captura14.png)
+  
 ## **7. Documentación en GitHub**
 
 ### Crear un repositorio:
