@@ -7,6 +7,7 @@
 - Asigna los puertos 2222 y 2223 a la máquina A y B, respectivamente.
 
   ![photo](imagenes/Captura1.png)
+  ![foto](imagenes\Captura1.png)
 
 ### Instalar el servicio SSH
 Ejecuta en ambas máquinas:
@@ -14,7 +15,7 @@ Ejecuta en ambas máquinas:
 sudo apt update
 sudo apt install openssh-server
 ```
-  ![photo](imagenes/Captura1.png)
+
 ---
 
 ## **2. Crear usuarios Alex y Brais**
