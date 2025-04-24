@@ -6,6 +6,8 @@
 - Configura ambas máquinas en la misma red virtual para garantizar comunicación mutua.
 - Asigna los puertos 2222 y 2223 a la máquina A y B, respectivamente.
 
+  !(imagenes/captura1.png)
+
 ### Instalar el servicio SSH
 Ejecuta en ambas máquinas:
 ```bash
