@@ -7,7 +7,7 @@
 - Asigna los puertos 2222 y 2223 a la máquina A y B, respectivamente.
 
   ![photo](imagenes/Captura1.png)
-  ![foto](imagenes/Captura2.png)
+  ![photo](imagenes/Captura2.png)
 
 ### Instalar el servicio SSH
 Ejecuta en ambas máquinas:
